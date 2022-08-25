@@ -18,6 +18,8 @@ const Counter = () => {
             <button onClick={() => dispatch(decrementAction())}>Decrement</button>
             <br /><br />
             <Link to="/todo">Todo List</Link>
+            <br />
+            <Link to="/github">Github Users</Link>
         </div>
     );
 };

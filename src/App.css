@@ -50,3 +50,16 @@
 .todo-complete{
   text-decoration: line-through;
 }
+
+.user-details-wrapper{
+  width: 500px;
+  height: 400px;
+  text-align: center;
+  border: 1px solid black;
+  margin-top: 100px;
+  margin-inline: auto;
+}
+
+.user-details-wrapper img{
+  width: 190px;
+}
